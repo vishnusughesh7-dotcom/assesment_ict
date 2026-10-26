@@ -1,0 +1,4 @@
+node_modules/
+*.log
+# The assessment requests a repository .env.
+# Keep the provided .env only with dummy/test credentials.
